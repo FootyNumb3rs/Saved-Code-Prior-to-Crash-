@@ -17,4 +17,4 @@ Program Descriptions
 
 7. priceInfoV3 compares team & player level valuations for several Premier League clubs.
 
-8. top_athletes.py attempts to scrape ESPN's top 100 athletes page for social popularity data. Unfortunately, the website didn't allow for it (rather, at the time I was to inexperienced to find a work-around).
+8. top_athletes.py attempts to scrape ESPN's top 100 athletes page for popularity data. Unfortunately, the website didn't allow for it (rather, at the time I was too inexperienced to find a work-around).
